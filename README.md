@@ -1,3 +1,5 @@
+# CATAN
+
 Catan a board game for two to four players in which you compete to gather resources and build the biggest settlements on the fictional island of Catan
 
 For more information and how to play you can visit the link:
@@ -8,19 +10,19 @@ I have implemeted all of the rules in the real catan board game. It is like a re
 
 You can play your friends just download the git code and run the exe file.
 
-MainMenu
+# MainMenu
 ![image](https://github.com/AliFuat98/CatanBuild/assets/87227396/5768abf7-ab80-4a8a-89a1-782a09d7ef39)
 
-Create Lobby
+# Create Lobby
 ![image](https://github.com/AliFuat98/CatanBuild/assets/87227396/c405efc5-c2e8-4480-b0fa-762dcd15ca14)
 
-Lobby
+# Lobby
 ![image](https://github.com/AliFuat98/CatanBuild/assets/87227396/4f87c70e-530b-4b4e-8c05-dcd769192e61)
 
-Game Scene
+# Game Scene
 ![image](https://github.com/AliFuat98/CatanBuild/assets/87227396/3cd54686-156b-4bcb-8ec5-ef0e3feeecfd)
 
-Trade System
+# Trade System
 ![image](https://github.com/AliFuat98/CatanBuild/assets/87227396/6d8e22a5-e5a7-4dff-9a2d-dbf39782e546)
 
 and more..
