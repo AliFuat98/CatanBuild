@@ -4,7 +4,9 @@ For more information and how to play you can visit the link:
   https://www.dicebreaker.com/games/catan-1/how-to/how-to-play-catan-board-game#:~:text=Catan%20is%20a%20board%20game,approximately%20one%20hour%20to%20play.
 
 My game is so similar to the actual board game called Catan. I have developed this game for my personal training. I have started from scratch.
-I have implemeted all of the rules in the real catan board game. It is a replica
+I have implemeted all of the rules in the real catan board game. It is like a replica.
+
+You can play your friends just download the git code and run the exe file.
 
 MainMenu
 ![image](https://github.com/AliFuat98/CatanBuild/assets/87227396/5768abf7-ab80-4a8a-89a1-782a09d7ef39)
